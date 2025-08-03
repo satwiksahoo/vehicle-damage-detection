@@ -57,6 +57,5 @@ To run this locally:
 
 ```bash
 git clone https://github.com/satwiksahoo/vehicle-damage-detection.git
-cd vehicle-damage-detection
 pip install -r requirements.txt
 streamlit run app.py
